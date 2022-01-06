@@ -1,3 +1,4 @@
+//create a Queue data structure
 function Queue() {
   this._storage = {};
   this._head = 0; // key for next in line

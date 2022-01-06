@@ -1,3 +1,4 @@
+//Create a Stack data structure
 function Stack() {
   this._storage = new Map();
   //we could use other structures instead
